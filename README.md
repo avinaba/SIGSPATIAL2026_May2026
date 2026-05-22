@@ -1,2 +1,2 @@
-# VLDB_2027_25April2026
+# SIGSPATIAL submission
 Repository for supplimental material upload
